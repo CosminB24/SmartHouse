@@ -1,0 +1,6 @@
+﻿  Bathroom.cpp
+D:\Cosmin\2022_05\SmartHouse\Bathroom.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  Kitchen.cpp
+D:\Cosmin\2022_05\SmartHouse\Kitchen.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SmartHouse.vcxproj -> D:\Cosmin\2022_05\SmartHouse\Debug\SmartHouse.exe

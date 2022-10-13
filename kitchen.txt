@@ -1,0 +1,3 @@
+Sensor0=2.03497 Sensor1=89.5066 Sensor2=958.272 
+Sensor0=-22.3225 Sensor1=16.5733 Sensor2=1090.82 
+Sensor0=-20.0519 Sensor1=66.2382 Sensor2=660.631 
